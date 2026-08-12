@@ -1,0 +1,4 @@
+interface:
+  display_name: "风机历史数据分析"
+  short_description: "检索康恒风机历史清标与技术协议，形成可追溯历史对照和异常提示"
+  default_prompt: "使用 $fan-history-data 对当前风机投标参数进行同一供应商历史项目和其他供应商历史项目对照，保留项目、设备、原文与来源位置，并起草不泄露其他投标信息的澄清建议。"

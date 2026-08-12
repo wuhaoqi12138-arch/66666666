@@ -1,0 +1,4941 @@
+[
+  {
+    "source_id": "FAN0001",
+    "corpus": "clear",
+    "original_file": "AA2305-2T010-HLB00-002-越南宁平项目落差墙冷却风机增补清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 17778,
+    "sha256": "9049acc7cd4afdd3a53d0c2a3d84a25a3eb1aa93619310620a9a8a3ecd88f1be",
+    "project_guess": "越南宁平项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 62,
+    "text_chars": 3745,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 66
+  },
+  {
+    "source_id": "FAN0002",
+    "corpus": "clear",
+    "original_file": "BA2503-2T010-HLB00-清远项目-风机技术清标.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 412861,
+    "sha256": "09fbc709ea7663340806aba401c728becc15b010f3ee2aefde262de604af73d1",
+    "project_guess": "清远项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "宁风科技（宁波）有限公司",
+      "河北旺轩通风设备制造有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 139,
+    "text_chars": 12097,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 320
+  },
+  {
+    "source_id": "FAN0003",
+    "corpus": "clear",
+    "original_file": "CA2409-2T010-HLB00-2-容县项目风机技术清标表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 31833,
+    "sha256": "42364db1d461f8c50041cabbd834838beabdd23e8b7353068d2015bc0487d8de",
+    "project_guess": "容县项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 141,
+    "text_chars": 13594,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 492
+  },
+  {
+    "source_id": "FAN0004",
+    "corpus": "clear",
+    "original_file": "CA2410-2T010-HLB00-2澜沧项目风机技术清标表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 23979,
+    "sha256": "ada4ad72c5a71cf72fcd57b84a66120546ef751a6d3740c9566d6f0eccf6dc45",
+    "project_guess": "澜沧项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 129,
+    "text_chars": 11311,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 14
+  },
+  {
+    "source_id": "FAN0005",
+    "corpus": "clear",
+    "original_file": "CA2410-2T010-HLB00-3林芝项目风机技术清标表-签字版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 898570,
+    "sha256": "8f3ec8c95f308ecd6517b2158a8990a20e5ebc606fa776b18b0c29f323a64d6e",
+    "project_guess": "林芝项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0006",
+    "corpus": "clear",
+    "original_file": "CA2410-2T010-HLB00-4澜沧项目风机清标签字版 (2).pdf",
+    "extension": ".pdf",
+    "size_bytes": 1260150,
+    "sha256": "5d567a54c833d71fb0644c6176ec90ecf7864526f37fd892bc506c3434ebe6a9",
+    "project_guess": "澜沧项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0007",
+    "corpus": "clear",
+    "original_file": "CA2504-2T005-HLB00-大姚项目-风机技术清标.pdf",
+    "extension": ".pdf",
+    "size_bytes": 419431,
+    "sha256": "332ad63cd097d215c56ee9f3eddbc6fb873fd0a45a9135c580456935430ba946",
+    "project_guess": "大姚项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "partial-text:4/5",
+    "extract_records": 4,
+    "text_chars": 6498,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0008",
+    "corpus": "clear",
+    "original_file": "CA2506-2T010-HLB00-岐山项目风机技术清标意见.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 416161,
+    "sha256": "c7b91fe460bf10df2fd94730208c244dbcc8ae83ef4f33a045e4eb42f203a6a3",
+    "project_guess": "岐山项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 155,
+    "text_chars": 11419,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 231
+  },
+  {
+    "source_id": "FAN0009",
+    "corpus": "clear",
+    "original_file": "CA2601-2T010-HLB00-Cypark项目-风机-清标表2026.06.30.xlsx.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 249963,
+    "sha256": "6c31e5509e220795fe9c4de3ff993507170d4579056aa407493eb65b9d5199df",
+    "project_guess": "ypark项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁风科技（宁波）有限公司",
+      "河北旺轩通风设备制造有限公司",
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 437,
+    "text_chars": 47725,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 396
+  },
+  {
+    "source_id": "FAN0010",
+    "corpus": "clear",
+    "original_file": "GB2510-2T010-HLB00-001 黄冈项目风机技术清标-终版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1964579,
+    "sha256": "0261f8b897f1236fd99b36a660a0725c1dd23a05868ae4764a3165c6ccc628a4",
+    "project_guess": "黄冈项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0011",
+    "corpus": "clear",
+    "original_file": "三河项目-风机清标文件-20191218.pdf",
+    "extension": ".pdf",
+    "size_bytes": 4946945,
+    "sha256": "7672dbf6e1b4c1efe8c84e274cf2701ba94038515bc5ef0c7e62c82cadcf466b",
+    "project_guess": "三河项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0012",
+    "corpus": "clear",
+    "original_file": "三穗项目-风机清标文件-20190211-袁旗斌.pdf",
+    "extension": ".pdf",
+    "size_bytes": 393615,
+    "sha256": "20311a8fcb8f66d8190623c0f6ea3817656391e7a10a0f4de94d1724a990bb7d",
+    "project_guess": "三穗项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 9,
+    "text_chars": 18895,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0013",
+    "corpus": "clear",
+    "original_file": "三门项目-风机清标文件-20200623-袁旗斌.pdf",
+    "extension": ".pdf",
+    "size_bytes": 263700,
+    "sha256": "db83474446eb2bba1dc53d2aab9cb4bafe973d6ec1869bd5087ffcfd2fba6dbf",
+    "project_guess": "三门项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0014",
+    "corpus": "clear",
+    "original_file": "三门项目再循环风机清标一览表20210201.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 15737,
+    "sha256": "651376487ebd4014f3432bb2d955b068787a0eb916108d9101180f008461b571",
+    "project_guess": "三门项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 41,
+    "text_chars": 2482,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 115
+  },
+  {
+    "source_id": "FAN0015",
+    "corpus": "clear",
+    "original_file": "上蔡项目-风机清标表20200924-郑志成.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 22208,
+    "sha256": "4b292be88d41a5d014c1d027275a9694eddc4ef0eda4d197a61789231d189ba0",
+    "project_guess": "上蔡项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 147,
+    "text_chars": 10423,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 540
+  },
+  {
+    "source_id": "FAN0016",
+    "corpus": "clear",
+    "original_file": "于都项目-风机清标一览表-20201230-郑志成.pdf",
+    "extension": ".pdf",
+    "size_bytes": 227107,
+    "sha256": "9630d11f3da7608850935f61e71e54ee91923449a9b06d872bbd1960bb78c9bf",
+    "project_guess": "于都项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机",
+      "离心风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 6,
+    "text_chars": 5646,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0017",
+    "corpus": "clear",
+    "original_file": "兴宁项目-风机清标文件-20200713乔旭.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 22890,
+    "sha256": "c99d328215e2023cecfbaefa2caff4f83f5cd47daacffb79d78d9845b4739244",
+    "project_guess": "兴宁项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 144,
+    "text_chars": 8023,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 384
+  },
+  {
+    "source_id": "FAN0018",
+    "corpus": "clear",
+    "original_file": "利辛项目炉墙冷却风机清标结论.pdf",
+    "extension": ".pdf",
+    "size_bytes": 834439,
+    "sha256": "57237c05eeae118b7c7c2e875412042aad1216a4d98a943a84b0bf57a42d75db",
+    "project_guess": "利辛项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "冷却风机"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0019",
+    "corpus": "clear",
+    "original_file": "千子山项目-风机清标文件-20200919-袁旗斌.pdf",
+    "extension": ".pdf",
+    "size_bytes": 201520,
+    "sha256": "c7550623a8f533bcc367902bfd4d59693cdcfbedaaab8428d2f9a8391214ccf1",
+    "project_guess": "千子山项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 2,
+    "text_chars": 4823,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0020",
+    "corpus": "clear",
+    "original_file": "南昌项目-风机清标表_-20180911-单福朋.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 37251,
+    "sha256": "1cea19e558c17ef7d0f421c85c833647ab2a78ac21871be2bb88eba3f30ee465",
+    "project_guess": "南昌项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 311,
+    "text_chars": 22648,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 856
+  },
+  {
+    "source_id": "FAN0021",
+    "corpus": "clear",
+    "original_file": "卡州项目风机技术清标对比表-20250706.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 427247,
+    "sha256": "c68979d909e330a55a1eaad38fcc6ae0c77d74b385354f590df5de6039dd8f62",
+    "project_guess": "卡州项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "河北旺轩通风设备制造有限公司",
+      "洛阳北玻三元流风机技术有限公司",
+      "宁风科技（宁波）有限公司",
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 179,
+    "text_chars": 24039,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 625
+  },
+  {
+    "source_id": "FAN0022",
+    "corpus": "clear",
+    "original_file": "印尼万隆项目风机清标对比表-20240805.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 28881,
+    "sha256": "8c74d32f45fe778b81890395b5e2dd52f4857b1de99619bc7f258e85a8d959f8",
+    "project_guess": "印尼万隆项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "通风风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "上海电气集团上海电机厂有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 179,
+    "text_chars": 11841,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 461
+  },
+  {
+    "source_id": "FAN0023",
+    "corpus": "clear",
+    "original_file": "原阳项目烟气再循环风机清标对比表20240306.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 17339,
+    "sha256": "36f256b8763e616a4e3c56414941dda9a6543cffd843f4911cba3e0d448475c6",
+    "project_guess": "原阳项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 29,
+    "text_chars": 1973,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 84
+  },
+  {
+    "source_id": "FAN0024",
+    "corpus": "clear",
+    "original_file": "厦门东部项目风机技术清标一览表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 16564,
+    "sha256": "ed6edc01d0860ecac78763a45eab44a12109e95f8d72dd9df7e6cd3956c16b3c",
+    "project_guess": "厦门东部项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机"
+    ],
+    "suppliers": [
+      "上风高科",
+      "山东章鼓",
+      "章鼓",
+      "陕鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 60,
+    "text_chars": 4544,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 300
+  },
+  {
+    "source_id": "FAN0025",
+    "corpus": "clear",
+    "original_file": "台山项目风机清标-参数表-新表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24020,
+    "sha256": "82cca5f323bc3d7c4cc772f5ff2e0bdd48cc6662fc6784828bfd708caeb418c1",
+    "project_guess": "台山项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "浙江上风",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 112,
+    "text_chars": 9004,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 599
+  },
+  {
+    "source_id": "FAN0026",
+    "corpus": "clear",
+    "original_file": "合肥龙泉山项目风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 44389,
+    "sha256": "f9ceb79edb98f8ad94a34f61d22d9989480d2aac6c9abaa7a3e4be7be78ceab3",
+    "project_guess": "合肥龙泉山项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 373,
+    "text_chars": 29691,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 1294
+  },
+  {
+    "source_id": "FAN0027",
+    "corpus": "clear",
+    "original_file": "商丘项目-烟气再循环风机技术清标表-20240725.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 19542,
+    "sha256": "9eb7c1f2ac1949d8cc5a2f33c3af7d6f995daaf2473aaab65084d2029df41455",
+    "project_guess": "商丘项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 65,
+    "text_chars": 3433,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 98
+  },
+  {
+    "source_id": "FAN0028",
+    "corpus": "clear",
+    "original_file": "嘉兴项目-烟气再循环风机技术清标表-20251201.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 23141,
+    "sha256": "227e2a6b1c64bdb38abc0c9253cb6e190f725fba5b83ebc5cb732f0eda12c067",
+    "project_guess": "嘉兴项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 68,
+    "text_chars": 5805,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 215
+  },
+  {
+    "source_id": "FAN0029",
+    "corpus": "clear",
+    "original_file": "大名项目（烟气提标技改）风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 19189,
+    "sha256": "5cadc5e20a802b07639f15585fb9f347ec318c15b0452a2b8725b1da8c46dda8",
+    "project_guess": "大名项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 95,
+    "text_chars": 5032,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 195
+  },
+  {
+    "source_id": "FAN0030",
+    "corpus": "clear",
+    "original_file": "大姚-风机-清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 26340,
+    "sha256": "9a4f749e55765e9d9950a85cb7df0a65717e3a3076e6c7629ef7903a3f5b398d",
+    "project_guess": "大姚 风机",
+    "fan_types": [
+      "落差墙冷却风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 113,
+    "text_chars": 15225,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 482
+  },
+  {
+    "source_id": "FAN0031",
+    "corpus": "clear",
+    "original_file": "大足项目风机清标对比表20230816.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 26542,
+    "sha256": "afafd966447bbe7c444f6e69c04640b039b9a650c5b15edd97012f32667c4b9c",
+    "project_guess": "大足项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 141,
+    "text_chars": 9351,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 401
+  },
+  {
+    "source_id": "FAN0032",
+    "corpus": "clear",
+    "original_file": "太原项目通风风机技术清标表20190724.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 26405,
+    "sha256": "699ae0cdd5b55e7ef3fc6cfc46b01b0e41d740e45e3675813c9d986d1c6d0039",
+    "project_guess": "太原项目",
+    "fan_types": [
+      "送风机",
+      "通风风机",
+      "离心风机",
+      "轴流风机"
+    ],
+    "suppliers": [],
+    "extraction_status": "ok",
+    "extract_records": 250,
+    "text_chars": 7915,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0033",
+    "corpus": "clear",
+    "original_file": "如皋项目炉墙冷却风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 16325,
+    "sha256": "b89fe040f060339d5a36f18ed2d00c85b1018a53e20306d88f0ef2e0440441e9",
+    "project_guess": "如皋项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "南通大通宝富风机有限公司",
+      "宁波风机有限公司",
+      "将各风机厂",
+      "宁波风机",
+      "南通大通宝富"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 78,
+    "text_chars": 4416,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 144
+  },
+  {
+    "source_id": "FAN0034",
+    "corpus": "clear",
+    "original_file": "娄底项目风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 22554,
+    "sha256": "46e17a54b29bb59a9f6c785f2b786a0104626d73d408e7aa634661cc4ed3c086",
+    "project_guess": "娄底项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 147,
+    "text_chars": 9769,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 516
+  },
+  {
+    "source_id": "FAN0035",
+    "corpus": "clear",
+    "original_file": "官塘项目-烟气再循环风机技术清标表V2.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 20415,
+    "sha256": "57c6b21fffcc36f7f888527343abfbfdfa1579a00b407fefd746249b0751f29f",
+    "project_guess": "官塘项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 64,
+    "text_chars": 4635,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 162
+  },
+  {
+    "source_id": "FAN0036",
+    "corpus": "clear",
+    "original_file": "宜宾项目风机清标对比表20220107.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 20743,
+    "sha256": "0834e51b8ecea996e9f025d097a13f35d7fcffe4899c46bfea5e692dff4b5f64",
+    "project_guess": "宜宾项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 94,
+    "text_chars": 7716,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 439
+  },
+  {
+    "source_id": "FAN0037",
+    "corpus": "clear",
+    "original_file": "宝鸡项目风机技术清标表20220622（章鼓一次风机改）.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 21560,
+    "sha256": "c015cee7356c2058626a652f4f5563cce85ed602b1e893321de32c5ef7e5276f",
+    "project_guess": "宝鸡项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 91,
+    "text_chars": 6872,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 400
+  },
+  {
+    "source_id": "FAN0038",
+    "corpus": "clear",
+    "original_file": "封丘项目风机清标对比表20230213.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 33621,
+    "sha256": "871bd813198e313cb2f9d5d17045a1b703e8b186832e5272e21dc3cbdf8951cc",
+    "project_guess": "封丘项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 174,
+    "text_chars": 14857,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 761
+  },
+  {
+    "source_id": "FAN0039",
+    "corpus": "clear",
+    "original_file": "岑溪项目风机技术清标表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 413510,
+    "sha256": "d1c6a2b8e96555aea43f0bf5cafea0913b62eb0cdac238c0aa992fa435189397",
+    "project_guess": "岑溪项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "岑溪项目风机厂",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 128,
+    "text_chars": 9197,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 174
+  },
+  {
+    "source_id": "FAN0040",
+    "corpus": "clear",
+    "original_file": "广南项目风机清标文件.pdf",
+    "extension": ".pdf",
+    "size_bytes": 6858544,
+    "sha256": "18fa9c6a550175b488bc50b89ce30439572ea62077f0d95b0073b02154c8d991",
+    "project_guess": "广南项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0041",
+    "corpus": "clear",
+    "original_file": "广水风机清标2018.1.30.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 31041,
+    "sha256": "49c5e42f0ed1cbace95013b2a22ab1590be110409d5719468152de923c2dff85",
+    "project_guess": "广水风机清标2018.1.30",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 222,
+    "text_chars": 15208,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 825
+  },
+  {
+    "source_id": "FAN0042",
+    "corpus": "clear",
+    "original_file": "广饶项目-风机清标文件-20200318-单福朋.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 49596,
+    "sha256": "0d6e9817c5abed3bcdb28383eb6bb4757949a2efa68814b6066b847fc6b70dbc",
+    "project_guess": "广饶项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 419,
+    "text_chars": 27839,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 1202
+  },
+  {
+    "source_id": "FAN0043",
+    "corpus": "clear",
+    "original_file": "德清项目风机清标对比表20180918.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 16561,
+    "sha256": "7e8e3da9543767569ef8f2e5e3963f37efd148459052b476a0debe2ffcbc1dc0",
+    "project_guess": "德清项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "南通大通宝富风机有限公司",
+      "宁波风机有限公司",
+      "将各风机厂",
+      "宁波风机",
+      "南通大通宝富"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 76,
+    "text_chars": 4211,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0044",
+    "corpus": "clear",
+    "original_file": "怀化项目-风机技术清标表-20220414-常振宇.pdf",
+    "extension": ".pdf",
+    "size_bytes": 153915,
+    "sha256": "ab11af15ccd7e21cafd85e90dc49c16434a3d0e08b4ca92babe60d2078733ac3",
+    "project_guess": "怀化项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 3,
+    "text_chars": 3182,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0045",
+    "corpus": "clear",
+    "original_file": "房县项目风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 21804,
+    "sha256": "1309ca74e0320853343c0083f6529deb68a73742b9c939755430a9bbee12d3d0",
+    "project_guess": "房县项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 146,
+    "text_chars": 9975,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 551
+  },
+  {
+    "source_id": "FAN0046",
+    "corpus": "clear",
+    "original_file": "拉萨二期项目风机技术清标表20221017.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 28060,
+    "sha256": "4e0867839238687b147b1f3bdc3d3cf866bf989c58c25fa7a310d891ce6a2c2a",
+    "project_guess": "拉萨二期项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 132,
+    "text_chars": 11568,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 719
+  },
+  {
+    "source_id": "FAN0047",
+    "corpus": "clear",
+    "original_file": "新会项目风机技术清标一览表20220914.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 29094,
+    "sha256": "35f966e1f98bdfeb4006f10be1cd528fd777aad49a76046dde744eb46a11cda4",
+    "project_guess": "新会项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 109,
+    "text_chars": 12538,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 747
+  },
+  {
+    "source_id": "FAN0048",
+    "corpus": "clear",
+    "original_file": "新民项目风机技术清标表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 27153,
+    "sha256": "929306f6ef7c346dcfb9465de59ae80a647397144fe57a7f7a27405aa57a697b",
+    "project_guess": "新民项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 147,
+    "text_chars": 8708,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 4
+  },
+  {
+    "source_id": "FAN0049",
+    "corpus": "clear",
+    "original_file": "暖武里项目风机技术清标审批表-20240724.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1699075,
+    "sha256": "3d66e8381f982e08eca245e01b05a8885bc746e88a9009e026deb972348355ce",
+    "project_guess": "暖武里项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0050",
+    "corpus": "clear",
+    "original_file": "曲靖项目风机清标对比表20221213.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24130,
+    "sha256": "b18657afc95e7ca21d1a2133d8733b3c57236b765c35cd3018010a88c8e341c4",
+    "project_guess": "曲靖项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 125,
+    "text_chars": 11031,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 623
+  },
+  {
+    "source_id": "FAN0051",
+    "corpus": "clear",
+    "original_file": "朝阳项目风机清标对比表20220416-张坡.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24943,
+    "sha256": "c9a6d81079fd500e805dd555fab0276aeb569addbc9ede79e335633ddf026bf3",
+    "project_guess": "朝阳项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 153,
+    "text_chars": 9576,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 435
+  },
+  {
+    "source_id": "FAN0052",
+    "corpus": "clear",
+    "original_file": "杭州临江一段风机技术清标表20181023.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 30246,
+    "sha256": "4b4c9b11a5f548c4579901a1c6c5e80f3a2292d2188a87351c001479200cc630",
+    "project_guess": "杭州临江一段风机表20181023",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "豪顿华"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 183,
+    "text_chars": 13165,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0053",
+    "corpus": "clear",
+    "original_file": "杭州临江烟气再循环风机、密封风机技术清标表20181025.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 25310,
+    "sha256": "674bc3c8eb18531dc661f5115b8ac98467437aa34f80c2aee883f2ec47261367",
+    "project_guess": "杭州临江烟气再循环风机、密封风机表20181025",
+    "fan_types": [
+      "烟气再循环风机",
+      "密封风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "浙江上风",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 82,
+    "text_chars": 6334,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0054",
+    "corpus": "clear",
+    "original_file": "杭州临江项目二段风机（烟气再循环风机、密封风机）技术清标表20181025.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 25244,
+    "sha256": "376b85fa978788d3d3b2cc100796b0bcb829b173c80222d6159de2a574123c8b",
+    "project_guess": "杭州临江项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "密封风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "浙江上风",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 82,
+    "text_chars": 6355,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0055",
+    "corpus": "clear",
+    "original_file": "枣阳项目风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 20905,
+    "sha256": "004997824bcce9fef7a43131286b8761f5d1886f36e2238d842278623e3986a0",
+    "project_guess": "枣阳项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 147,
+    "text_chars": 8314,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 387
+  },
+  {
+    "source_id": "FAN0056",
+    "corpus": "clear",
+    "original_file": "柳州项目烟气再循环风机技术清标一览表20220309.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 13691,
+    "sha256": "e2bc175c6b6538a9fb654f63bc9041b7326b0bed40cd79ed7265d42af5d2a66b",
+    "project_guess": "柳州项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 29,
+    "text_chars": 1720,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 84
+  },
+  {
+    "source_id": "FAN0057",
+    "corpus": "clear",
+    "original_file": "株洲项目-再循环风机技术清标一览表20231013.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 13576,
+    "sha256": "d29acea53d86b1abf4e8bc83c81195c8773ccfd2142d631602d3ec8e37a00ed2",
+    "project_guess": "株洲项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 28,
+    "text_chars": 1672,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0058",
+    "corpus": "clear",
+    "original_file": "桐庐项目风机清标对比表20240812.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 27077,
+    "sha256": "7a7e901c270785cbeb720c7c228a080512ba0e0f83f182d21e684e03d02b6ff2",
+    "project_guess": "桐庐项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 142,
+    "text_chars": 12959,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 743
+  },
+  {
+    "source_id": "FAN0059",
+    "corpus": "clear",
+    "original_file": "梧州风机清标表20180307.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 31450,
+    "sha256": "05c70bf35a9881399fde75a64e194da4c610e3ff86b0256a3f9003fc933a1347",
+    "project_guess": "梧州风机20180307",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "浙江上风",
+      "金通灵",
+      "宁波风机",
+      "南通大通宝富",
+      "江苏金通灵"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 222,
+    "text_chars": 17893,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 1080
+  },
+  {
+    "source_id": "FAN0060",
+    "corpus": "clear",
+    "original_file": "武冈项目—风机技术清标文件20221109.pdf",
+    "extension": ".pdf",
+    "size_bytes": 329228,
+    "sha256": "6987f2ff344ccec513b95f6bd93075d2731a5b168dc72bb0d70d20cd5b449eba",
+    "project_guess": "武冈项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "partial-text:7/8",
+    "extract_records": 7,
+    "text_chars": 7366,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0061",
+    "corpus": "clear",
+    "original_file": "武安项目风机技术清标文件20230411.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1732558,
+    "sha256": "adbf402f7880ef7cb583ed353f1f461c361de21d069cfb23c96c487e1bfce7c8",
+    "project_guess": "武安项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0062",
+    "corpus": "clear",
+    "original_file": "永顺项目风机技术清标一览表20220613.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 25350,
+    "sha256": "94f8c4291d0d0fb3744073a356a9363d60ed1706c2f7d62c3aa6631232be114e",
+    "project_guess": "永顺项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 109,
+    "text_chars": 8276,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 496
+  },
+  {
+    "source_id": "FAN0063",
+    "corpus": "clear",
+    "original_file": "汉川项目-风机技术清标一览表20221212-功率对比-20230203.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 22695,
+    "sha256": "c59f41b86a7b922fcce216af4c7ee0448d5b7c76686405b3f6185fb7bf5298cd",
+    "project_guess": "汉川项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 91,
+    "text_chars": 7162,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0064",
+    "corpus": "clear",
+    "original_file": "泰国暖武里项目风机清标对比表-20240723.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 23039,
+    "sha256": "e60b8f74f60caed062c729937a726fcfbb431b3d88870962d66ac1d421527319",
+    "project_guess": "泰国暖武里项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "哈尔滨电气集团佳木斯电机股份有限公司",
+      "上海电气集团上海电机厂有限公司",
+      "卧龙电气南阳防爆集团股份有限公司",
+      "湘潭电机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 109,
+    "text_chars": 8061,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 324
+  },
+  {
+    "source_id": "FAN0065",
+    "corpus": "clear",
+    "original_file": "泰国空镇项目风机清标对比表-20241119（最终版）.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24026,
+    "sha256": "eec17d0d7515221f41b57d0c6135a5932fdf929fc3bc168d0a1d1b395ab12b69",
+    "project_guess": "泰国空镇项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 105,
+    "text_chars": 7324,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 288
+  },
+  {
+    "source_id": "FAN0066",
+    "corpus": "clear",
+    "original_file": "泰国素叻他尼项目风机清标对比表-20241119（最终版）.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24065,
+    "sha256": "efed4d48816e3c3d42d8f95bd754ff6c1c0e3e41c9a4766d325206a11ff754bc",
+    "project_guess": "泰国素叻他尼项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 105,
+    "text_chars": 7327,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 288
+  },
+  {
+    "source_id": "FAN0067",
+    "corpus": "clear",
+    "original_file": "泸州项目-风机技术清标一览表-20231030.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 39893,
+    "sha256": "e383987082c5f706fb11d8a6ec7382a0aed79dfc4ce1fefca6402390baa26ef1",
+    "project_guess": "泸州项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 238,
+    "text_chars": 18606,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0068",
+    "corpus": "clear",
+    "original_file": "湖州风机清标20171212.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 32204,
+    "sha256": "5a1f1670c002ed25c2716839bff05eb0c2dc0879ec832595555aaa1eddf705ad",
+    "project_guess": "湖州风机清标20171212",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "上风高科",
+      "浙江上风",
+      "金通灵",
+      "宁波风机",
+      "南通大通宝富",
+      "江苏金通灵"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 225,
+    "text_chars": 15799,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0069",
+    "corpus": "clear",
+    "original_file": "灞桥项目风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 26665,
+    "sha256": "24efe81f781c5c5a6a6d35e0d8244d0f13730b14cc2c11260408ba0e84ddb8fb",
+    "project_guess": "灞桥项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓",
+      "陕鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 101,
+    "text_chars": 7810,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 440
+  },
+  {
+    "source_id": "FAN0070",
+    "corpus": "clear",
+    "original_file": "珠海二期项目-风机清标文件-20180930-尤灏.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 47328,
+    "sha256": "7e2552d51bd4972745f304ebb3ec92feeeafaa3127ffb8dc5333af50a4f16d27",
+    "project_guess": "珠海二期项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "浙江上风",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 464,
+    "text_chars": 34060,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0071",
+    "corpus": "clear",
+    "original_file": "珠海项目风机清标对比表 -珠海市环保生物质热电工程二期项目.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 47328,
+    "sha256": "7e2552d51bd4972745f304ebb3ec92feeeafaa3127ffb8dc5333af50a4f16d27",
+    "project_guess": "珠海市环保生物质热电工程二期项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "浙江上风",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 464,
+    "text_chars": 34060,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0072",
+    "corpus": "clear",
+    "original_file": "莱州项目风机清标数据表20200914-张坡.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 23441,
+    "sha256": "63433bce99fb66835a9e349661e3e6d6b6df69805f92a93101fdee46cd606b31",
+    "project_guess": "莱州项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 146,
+    "text_chars": 11614,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 638
+  },
+  {
+    "source_id": "FAN0073",
+    "corpus": "clear",
+    "original_file": "获嘉项目风机清标对比表20230612.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 32103,
+    "sha256": "9587f8e27d6473da3628c7ad3ef74c9e6bc2e1d32fe48cdfb6b533973dd2a99c",
+    "project_guess": "获嘉项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 174,
+    "text_chars": 14785,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 756
+  },
+  {
+    "source_id": "FAN0074",
+    "corpus": "clear",
+    "original_file": "融安项目风机技术清标一览表20211230.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 21310,
+    "sha256": "6cc8097ac49f17362edf9a17240fed516655ebaf4832f265024642686c676377",
+    "project_guess": "融安项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 104,
+    "text_chars": 7764,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 466
+  },
+  {
+    "source_id": "FAN0075",
+    "corpus": "clear",
+    "original_file": "衡阳项目风机技术清标表20230106.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 25835,
+    "sha256": "48751814109fa00a97bdb922557fa8d043175f175b921042f416b39fc57cdb3f",
+    "project_guess": "衡阳项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 112,
+    "text_chars": 7201,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 435
+  },
+  {
+    "source_id": "FAN0076",
+    "corpus": "clear",
+    "original_file": "诸暨一二次风机清标意见.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1342560,
+    "sha256": "e9f56082ff30db4df5e19c9c0b9c76d15fe1b254062f1ba4bf5a71203470347b",
+    "project_guess": "诸暨一二次风机清标意见",
+    "fan_types": [
+      "一次风机",
+      "二次风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "partial-text:1/3",
+    "extract_records": 1,
+    "text_chars": 1690,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0077",
+    "corpus": "clear",
+    "original_file": "诸暨项目引风机技术清标一览表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 19034,
+    "sha256": "091fb4204b5cecc0e80066d6907a8b1ac22686af8aa22550d73a49c57143fc28",
+    "project_guess": "诸暨项目",
+    "fan_types": [
+      "引风机"
+    ],
+    "suppliers": [
+      "豪顿华"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 29,
+    "text_chars": 1279,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 47
+  },
+  {
+    "source_id": "FAN0078",
+    "corpus": "clear",
+    "original_file": "诸暨项目风机技术清标一览表2022620.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 16854,
+    "sha256": "7c72d8b36f0b80d4351ef717959bc57b3ba0a668ffe781123ba8a438924d3c0e",
+    "project_guess": "诸暨项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 69,
+    "text_chars": 3661,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 170
+  },
+  {
+    "source_id": "FAN0079",
+    "corpus": "clear",
+    "original_file": "赣榆项目风机清标对比表2024.04.03.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 19265,
+    "sha256": "e2bbedcb932de10745af71f9b7b6bc448ba3d51b1720d4a7bc239551a3d4743d",
+    "project_guess": "赣榆项目",
+    "fan_types": [
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 46,
+    "text_chars": 3114,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 177
+  },
+  {
+    "source_id": "FAN0080",
+    "corpus": "clear",
+    "original_file": "越南HCM项目风机清标对比表20240326.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24512,
+    "sha256": "1d082fa63039c7364a24500ec3f9d41928041612a4c79a2ec7a015d5e48a7465",
+    "project_guess": "越南HCM项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "上海电气集团上海电机厂有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 109,
+    "text_chars": 8744,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 384
+  },
+  {
+    "source_id": "FAN0081",
+    "corpus": "clear",
+    "original_file": "越南宁平项目风机清标对比表-审核修改版.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 35434,
+    "sha256": "e41f155ef1eca0ef39b0b1d47ee4adbff5e11daaebe10ffe0d7763a5d2203081",
+    "project_guess": "越南宁平项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 256,
+    "text_chars": 17727,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 401
+  },
+  {
+    "source_id": "FAN0082",
+    "corpus": "clear",
+    "original_file": "郸城项目风机清标对比表20200622.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 22440,
+    "sha256": "3890f06067cceec576ede3ee0a4db46fc41f2a71c2ef44fef694f264f7374713",
+    "project_guess": "郸城项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 147,
+    "text_chars": 9089,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 387
+  },
+  {
+    "source_id": "FAN0083",
+    "corpus": "clear",
+    "original_file": "金坛项目风机清标对比表.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24036,
+    "sha256": "0b49f261e33bbfa190fb89ae64f330634e44cf105028dc28b02b37b7045c2715",
+    "project_guess": "金坛项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 143,
+    "text_chars": 12367,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 660
+  },
+  {
+    "source_id": "FAN0084",
+    "corpus": "clear",
+    "original_file": "闽侯项目风机清标对比表-终版.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 36592,
+    "sha256": "e387c8437bcc7be04a953c433f0371cd4151c3fef8550fa4b591e2c986ce9719",
+    "project_guess": "闽侯项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "除引风机外的其他风机材质各风机厂",
+      "西玛风机",
+      "上风高科",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 293,
+    "text_chars": 25302,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 807
+  },
+  {
+    "source_id": "FAN0085",
+    "corpus": "clear",
+    "original_file": "陆良项目风机清标对比表-202311108.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 26095,
+    "sha256": "c56df0117c78672294dda52fa6d9b9052876af4a50b6cabd38c60c3f9b123de0",
+    "project_guess": "陆良项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 141,
+    "text_chars": 10215,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 469
+  },
+  {
+    "source_id": "FAN0086",
+    "corpus": "clear",
+    "original_file": "顺平项目-风机清标对比表-20201224-郑敏.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 22924,
+    "sha256": "8f14021f3a8721683dbf45f122f147a869253919dfdbb5a5550437b568c2c2d3",
+    "project_guess": "顺平项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "上风高科",
+      "山东章鼓",
+      "章鼓",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 144,
+    "text_chars": 10143,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 544
+  },
+  {
+    "source_id": "FAN0087",
+    "corpus": "clear",
+    "original_file": "香河项目-风机清标文件-20200528-袁旗斌.pdf",
+    "extension": ".pdf",
+    "size_bytes": 6542172,
+    "sha256": "28f70bc4e12376d6fc251e6cc826c451125b372590d968a935bc64e3612aa4c8",
+    "project_guess": "香河项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0088",
+    "corpus": "clear",
+    "original_file": "高陵项目风机清标对比表-高陵项目.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 31051,
+    "sha256": "0db87dbf7432e22c4646668160ac15562a33749ad4c12e5de87871db16b5c047",
+    "project_guess": "风机清标对比表-高陵项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "西玛风机",
+      "上风高科",
+      "浙江上风",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 306,
+    "text_chars": 23021,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 868
+  },
+  {
+    "source_id": "FAN0089",
+    "corpus": "clear",
+    "original_file": "鹤山项目-风机技术清标一览表20230407.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 24496,
+    "sha256": "db616a5e2fda742acd3579ef8185b7fb6674e400934ebd2618c535433300c663",
+    "project_guess": "鹤山项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 114,
+    "text_chars": 10032,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 588
+  },
+  {
+    "source_id": "FAN0090",
+    "corpus": "clear",
+    "original_file": "黄冈项目-烟气再循环风机技术清标表V1.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 18741,
+    "sha256": "ca484acad6fddf4bbba32e5b9b75a73c4ee96259644f4de19443444edad9c550",
+    "project_guess": "黄冈项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 63,
+    "text_chars": 4655,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 161
+  },
+  {
+    "source_id": "FAN0091",
+    "corpus": "clear",
+    "original_file": "黄骅项目风机技术清标对比表-0609.xlsx",
+    "extension": ".xlsx",
+    "size_bytes": 16364,
+    "sha256": "2dc01d75df1fa1ef90d17e70ff776c9b61eea532e78092d7039625b64bf0ef02",
+    "project_guess": "黄骅项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "西玛风机",
+      "上风高科",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 64,
+    "text_chars": 3805,
+    "notes": "",
+    "source_batch": "风机技术清标历史资料批次",
+    "normalized_history_records": 159
+  },
+  {
+    "source_id": "FAN0092",
+    "corpus": "agreement",
+    "original_file": "CA2403-HLB00-5T014-001-A 乌苏项目风机采购技术协议-20240905-双方签字版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 15629356,
+    "sha256": "4d39dc2eb9930ce1d9286f0fae69d3960759d941aec76075862c6d0a720f9642",
+    "project_guess": "乌苏项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0093",
+    "corpus": "agreement",
+    "original_file": "CA2503-2T005-HLB00-林芝项目-风机技术协议.pdf",
+    "extension": ".pdf",
+    "size_bytes": 16345141,
+    "sha256": "b538f65275508741e2ed6ef3ade6a9372447df4fffccd883db0b0298f47cba90",
+    "project_guess": "林芝项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [],
+    "extraction_status": "partial-text:67/68",
+    "extract_records": 67,
+    "text_chars": 36730,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0094",
+    "corpus": "agreement",
+    "original_file": "CA2505-2T005-HLB00-天津滨海改造工程-风机技术协议-0522双签.pdf",
+    "extension": ".pdf",
+    "size_bytes": 26674402,
+    "sha256": "fb84495ed7e297d752d90bf054cf83599c70abcb971a9986d059ce43d13e0a8f",
+    "project_guess": "CA2505 2T005 HLB00 天津滨海改造工程 风机 0522双签",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国恩菲工程技术有限公司",
+      "哈尔滨轴承集团",
+      "瓦房店轴承集团",
+      "洛阳轴承集团",
+      "上海自动化仪表有限公司",
+      "西安西玛电机有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 91,
+    "text_chars": 57667,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0095",
+    "corpus": "agreement",
+    "original_file": "SUS15S-109-007 20141225珠海市环保生物质热电工程风机技术协议(最终版本）.doc",
+    "extension": ".doc",
+    "size_bytes": 588288,
+    "sha256": "2a0dd286d3f6e9f4f336dea10e9c883202154c830df0cc62bacd453b0d262d37",
+    "project_guess": "SUS15S 109 007 20141225珠海市环保生物质热电工程风机(最本）",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机"
+    ],
+    "suppliers": [
+      "中国轻工业广州工程有限公司",
+      "宁波风机有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 742,
+    "text_chars": 31915,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0096",
+    "corpus": "agreement",
+    "original_file": "SUS15S-801-018  宁波项目风机技术协议--宁波风机有限公司.doc",
+    "extension": ".doc",
+    "size_bytes": 516096,
+    "sha256": "0728ae24a382730ae1e908acefb2193b68349dc5fc3dc07fb80563625fa3e2d7",
+    "project_guess": "宁波项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "宁波明州环境能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 871,
+    "text_chars": 29424,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0097",
+    "corpus": "agreement",
+    "original_file": "SUS17S-C01-56（技术协议）风机.pdf",
+    "extension": ".pdf",
+    "size_bytes": 14099930,
+    "sha256": "76d27c9690de2a31f6b15029f54149e7644689edbf539d18b7f73a4bcbac1c97",
+    "project_guess": "SUS17S C01 56（）风机",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0098",
+    "corpus": "agreement",
+    "original_file": "三河项目风机技术协议20200408(定稿).pdf",
+    "extension": ".pdf",
+    "size_bytes": 1844524,
+    "sha256": "008621a4fe5397eaf4bc3013529820066c54c62bd683f4451d3cb3e1f6c08200",
+    "project_guess": "三河项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "离心风机"
+    ],
+    "suppliers": [
+      "山东省章丘鼓风机股份有限公司",
+      "中国五洲工程设计集团有限公司",
+      "三河康恒再生能源有限公司",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "partial-text:60/61",
+    "extract_records": 60,
+    "text_chars": 34178,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0099",
+    "corpus": "agreement",
+    "original_file": "三穗项目风机技术协议20190527.doc",
+    "extension": ".doc",
+    "size_bytes": 1179136,
+    "sha256": "d5464389cab3eca056c2416acb0603254654aedbfef97e36126deda2fce9ecb5",
+    "project_guess": "三穗项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "三穗康恒再生能源有限公司",
+      "新乡西玛",
+      "西玛风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1097,
+    "text_chars": 35486,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0100",
+    "corpus": "agreement",
+    "original_file": "三门项目烟气再循环风机技术协议20210413.pdf",
+    "extension": ".pdf",
+    "size_bytes": 894358,
+    "sha256": "c197cd074a21d439a4c52c853b9ea10006d6e8b927d011b506cdfe36a7bc4c2d",
+    "project_guess": "三门项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "宁波宁风流体机械有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 32,
+    "text_chars": 24827,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0101",
+    "corpus": "agreement",
+    "original_file": "三门项目风机采购技术协议（定稿）20200821.pdf",
+    "extension": ".pdf",
+    "size_bytes": 3709452,
+    "sha256": "766694c96b32656e1c9eda0f3ad2c92478bd01caa54967b8f8ef34752df4fad5",
+    "project_guess": "三门项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "山东省章丘鼓风机股份有限公司",
+      "中国联合工程有限公司",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 52,
+    "text_chars": 31111,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0102",
+    "corpus": "agreement",
+    "original_file": "上海康恒环境青田项目技术协议(炉墙冷却风机).doc",
+    "extension": ".doc",
+    "size_bytes": 199168,
+    "sha256": "c7fb7c5e6980aa9fd88243b1e9952ff9e151348fc45cda043ce186c28a5f4f98",
+    "project_guess": "上海康恒环境青田项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "青田旺能环保能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 274,
+    "text_chars": 9181,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0103",
+    "corpus": "agreement",
+    "original_file": "上蔡项目-风机-技术协议-20201221-郑志成.doc",
+    "extension": ".doc",
+    "size_bytes": 1083392,
+    "sha256": "ee563335b8176629981a060929660a504884338d918994170aafad89f5177c86",
+    "project_guess": "上蔡项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "广州华科工程技术有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1110,
+    "text_chars": 50447,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0104",
+    "corpus": "agreement",
+    "original_file": "上风高科-杭州临江项目风机技术协议（再循环风机、密封风机）2018-11-26.doc",
+    "extension": ".doc",
+    "size_bytes": 329216,
+    "sha256": "732d649a0db74a6e3a48830e2af70d9d82440ba8420407c1b29e33b7df9acf32",
+    "project_guess": "上风高科-杭州临江项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "密封风机"
+    ],
+    "suppliers": [
+      "浙江上风高科专风实业有限公司",
+      "上风高科",
+      "浙江上风"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 622,
+    "text_chars": 19890,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0105",
+    "corpus": "agreement",
+    "original_file": "东港项目风机技术协议20210304.doc",
+    "extension": ".doc",
+    "size_bytes": 1036800,
+    "sha256": "66b9483c36970b90ee382745ee9c821345dbc967b482d8e54f2364fd941bed0b",
+    "project_guess": "东港项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1100,
+    "text_chars": 48439,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0106",
+    "corpus": "agreement",
+    "original_file": "义乌市垃圾焚烧发电厂提升改造项目风机技术协议（签署版）(20170725).doc",
+    "extension": ".doc",
+    "size_bytes": 1025536,
+    "sha256": "781b8c177f86006dbec19d02e95a8a67ed538a43c04de7f81151835770dc8ad1",
+    "project_guess": "义乌市垃圾焚烧发电厂提升改造项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "浙江华川深能环保有限公司",
+      "豪顿华工程有限公司",
+      "电动机制造厂家上海电气集团上海电机厂有限公司",
+      "扩散器或扩压段需风机厂",
+      "豪顿华"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1459,
+    "text_chars": 61596,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0107",
+    "corpus": "agreement",
+    "original_file": "于都项目-离心风机技术协议-20210409-新乡西玛.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1874419,
+    "sha256": "ee3ebcec35329ead22014cad1118eba5f252e89ea47da12807eff721cbad52ac",
+    "project_guess": "于都项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机",
+      "离心风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国瑞林工程技术股份有限公司",
+      "于都县华赣环境有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 66,
+    "text_chars": 35041,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0108",
+    "corpus": "agreement",
+    "original_file": "于都项目离心风机技术协议-初版.doc",
+    "extension": ".doc",
+    "size_bytes": 594432,
+    "sha256": "5344404970aacb6f17b7ae180e29156ecf297e4fd17eab0f2f02a07290b64b9f",
+    "project_guess": "于都项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机",
+      "离心风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国瑞林工程技术股份有限公司",
+      "于都县华赣环境有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1108,
+    "text_chars": 38716,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0109",
+    "corpus": "agreement",
+    "original_file": "光山垃圾焚烧发电项目风机技术协议0619.doc",
+    "extension": ".doc",
+    "size_bytes": 583680,
+    "sha256": "4a2945df6e4a4be3d75c782ec1aab784b68bffd39674ca5b807c01a526588c0b",
+    "project_guess": "光山垃圾焚烧发电项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "信阳康恒新能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 945,
+    "text_chars": 37538,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0110",
+    "corpus": "agreement",
+    "original_file": "光山生物质送引风机技术协议1112打印.docx",
+    "extension": ".docx",
+    "size_bytes": 75167,
+    "sha256": "8e7015e39716151f2b4759639c68712f4f44f62bff9008d890604c970931fb7d",
+    "project_guess": "光山生物质送引风机1112打印",
+    "fan_types": [
+      "引风机",
+      "送风机"
+    ],
+    "suppliers": [
+      "中国电建集团河南工程有限公司",
+      "鞍山钢峰风机有限责任公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 609,
+    "text_chars": 22439,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0111",
+    "corpus": "agreement",
+    "original_file": "兴宁项目-风机技术协议-20200825乔旭.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1167573,
+    "sha256": "fc4d58bbd79fa71a367155335560fc7a7e3815a71529816988d7941b1828566c",
+    "project_guess": "兴宁项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "广州华科工程技术有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 55,
+    "text_chars": 36273,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0112",
+    "corpus": "agreement",
+    "original_file": "利辛项目炉墙冷却风机技术协议.pdf",
+    "extension": ".pdf",
+    "size_bytes": 895155,
+    "sha256": "c0abadc614b98ea7013ab90ee9a8b90302b08eaa968b896892fffee9be90edae",
+    "project_guess": "利辛项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "按温州瑞基测控设备有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 17,
+    "text_chars": 12905,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0113",
+    "corpus": "agreement",
+    "original_file": "千子山项目风机采购技术协议(定稿)20210427南宁康恒.doc",
+    "extension": ".doc",
+    "size_bytes": 1714176,
+    "sha256": "bdecc09d2e8d1a741f340f923768b586b69b971ea967e6c81edd544a3fbeab30",
+    "project_guess": "千子山项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "山东省章丘鼓风机股份有限公司",
+      "中冶南方都市环保工程技术股份有限公司",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 946,
+    "text_chars": 41354,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0114",
+    "corpus": "agreement",
+    "original_file": "南丰项目-风机技术协议-20200825-提资人吴义连.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1060149,
+    "sha256": "91cdb60c98bfa46bfa5bd280a23e4aea7ab5d225a086d1872885245eee357b5c",
+    "project_guess": "南丰项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "山东临风科技股份有限公司",
+      "中国核电工程有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 63,
+    "text_chars": 36918,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0115",
+    "corpus": "agreement",
+    "original_file": "南京二期烟气再循环风机技术协议-终版.doc",
+    "extension": ".doc",
+    "size_bytes": 528896,
+    "sha256": "1fac4f30c7f07cb544db31b4d8c3c055e7ac10f26cb33415843ab22c9394acd4",
+    "project_guess": "南京二期烟气再循环风机",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "宁波宁风流体机械有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 629,
+    "text_chars": 24421,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0116",
+    "corpus": "agreement",
+    "original_file": "南京二期项目风机采购技术协议(打印版)-变更甲方.doc",
+    "extension": ".doc",
+    "size_bytes": 833024,
+    "sha256": "a170ae086b05fae7da91468d6d3ca68c29b543ae9d7305dec77bb82f12257b3e",
+    "project_guess": "南京二期项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国轻工业广州工程有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 871,
+    "text_chars": 40536,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0117",
+    "corpus": "agreement",
+    "original_file": "南太湖锅炉风机技术协议签字版20180206.doc",
+    "extension": ".doc",
+    "size_bytes": 881152,
+    "sha256": "b9d4b8715ae2ff25f3f9e8d1c316ccb87188aac55e206f8fd26e910d9b7158fd",
+    "project_guess": "南太湖锅炉风机20180206",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "湖州南太湖环保能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1048,
+    "text_chars": 47929,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0118",
+    "corpus": "agreement",
+    "original_file": "南宁项目-风机技术协议-20201029-贾敏华.pdf",
+    "extension": ".pdf",
+    "size_bytes": 13379837,
+    "sha256": "1aeb4ae8e96834f7a7eae716931182d5354191c6108e735fe32b3bf6cc507862",
+    "project_guess": "南宁项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0119",
+    "corpus": "agreement",
+    "original_file": "南昌项目引风机技术协议签字版--上风高科发.doc",
+    "extension": ".doc",
+    "size_bytes": 252416,
+    "sha256": "965e797a4e60266ca52bcac7c5a45410f5ca17ae9b572ae1a392ed9bd0f60c13",
+    "project_guess": "南昌项目",
+    "fan_types": [
+      "引风机"
+    ],
+    "suppliers": [
+      "浙江上风高科专风实业有限公司",
+      "上风高科",
+      "浙江上风"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 571,
+    "text_chars": 18972,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0120",
+    "corpus": "agreement",
+    "original_file": "南昌项目风机技术协议（新乡西玛签字版）1月2号.doc",
+    "extension": ".doc",
+    "size_bytes": 667001,
+    "sha256": "4f594ebdb3856af2adc0ac742ee205e22b81720c479907c6800b4c6153a0bb61",
+    "project_guess": "南昌项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 953,
+    "text_chars": 28995,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0121",
+    "corpus": "agreement",
+    "original_file": "卡州项目风机技术协议-终版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 8982409,
+    "sha256": "d4735c3bf1c2dbd0bc65f25bbb37ba75977e4ddf65aef78826886d4f4bd0ffaf",
+    "project_guess": "卡州项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "partial-text:71/72",
+    "extract_records": 71,
+    "text_chars": 36291,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0122",
+    "corpus": "agreement",
+    "original_file": "厂家—宣威风机技术协议.doc",
+    "extension": ".doc",
+    "size_bytes": 690688,
+    "sha256": "50bfc1830dbe246feec80988ff90f6790ec18b19429a4b8621c3f7605c142ac1",
+    "project_guess": "厂家—宣威风机",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "中国城市建设研究院有限公司",
+      "宁波风机有限公司",
+      "宣威市鸿志新能源有限公司",
+      "论证报告由云南省水文水资源局曲靖分局和云南文源科技服务有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 864,
+    "text_chars": 34216,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0123",
+    "corpus": "agreement",
+    "original_file": "厦门东部三期项目-风机采购技术协议1214反馈版.docx",
+    "extension": ".docx",
+    "size_bytes": 455728,
+    "sha256": "1bdabdc0530c6aec2d86827538c8aeed0b0788f3877fa35e9b22a93a9d9b0750",
+    "project_guess": "厦门东部三期项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机"
+    ],
+    "suppliers": [
+      "中国恩菲工程技术有限公司",
+      "上海电气鼓风机厂有限公司",
+      "厦门旭鸿环保电力有限公司",
+      "湘潭湘电电机制造有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 786,
+    "text_chars": 30349,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0124",
+    "corpus": "agreement",
+    "original_file": "台山风机-技术协议-小签完成.pdf",
+    "extension": ".pdf",
+    "size_bytes": 15793515,
+    "sha256": "60fec04861f7b27c17f1804ae9fea9e29ee8b4f137b95807c99eee6d52c681c6",
+    "project_guess": "台山风机 小签完成",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0125",
+    "corpus": "agreement",
+    "original_file": "合肥龙泉山项目风机技术协议2019.9.23（打印版）.doc",
+    "extension": ".doc",
+    "size_bytes": 1261568,
+    "sha256": "fd46a1a2bd32c68aa7ccbd8b2a3af5ffd1949413aaab832ad45dc8a9df14ba6d",
+    "project_guess": "合肥龙泉山项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "安徽皖能环保发电有限公司",
+      "最后一道面漆由风机厂",
+      "合肥龙泉山环保能源有限责任公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1208,
+    "text_chars": 42985,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0126",
+    "corpus": "agreement",
+    "original_file": "嘉兴项目1#炉烟气再循环风机技术协议20211104.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1249134,
+    "sha256": "b898cffeed66cfc566e13eac05c11ac960719d8e33dc38e6b0dd8b53080abd2e",
+    "project_guess": "嘉兴项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "宁波宁风流体机械有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 33,
+    "text_chars": 23929,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0127",
+    "corpus": "agreement",
+    "original_file": "大名项目风机技术协议20200713.doc",
+    "extension": ".doc",
+    "size_bytes": 992256,
+    "sha256": "4b04c135b8d583400d5cac9395c9fc4942a163c1f37e56f9ee08a63f15397c89",
+    "project_guess": "大名项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "大名县康恒再生能源有限公司",
+      "根据本工程勘察单位河北冶金建设集团勘察设计有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1119,
+    "text_chars": 49914,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0128",
+    "corpus": "agreement",
+    "original_file": "太原项目风机技术协议2017.05.03.doc",
+    "extension": ".doc",
+    "size_bytes": 394752,
+    "sha256": "d939470ef571b27007ca60a4bdcb0af99b169c247f7300a702eca974c3bdcb5d",
+    "project_guess": "太原项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "伊犁康恒环保设备有限公司",
+      "江苏金通灵流体机械科技股份有限公司",
+      "金通灵",
+      "江苏金通灵"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 581,
+    "text_chars": 23501,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0129",
+    "corpus": "agreement",
+    "original_file": "如皋项目炉墙冷却风机采购技术协议20190314.doc",
+    "extension": ".doc",
+    "size_bytes": 443392,
+    "sha256": "2f83d89596409fb61ad3d385162db4cf7aac15473bf8d92b9c8fd91efa6377af",
+    "project_guess": "如皋项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "上海电气环保热电（南通）有限公司",
+      "宁波风机有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 275,
+    "text_chars": 9968,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0130",
+    "corpus": "agreement",
+    "original_file": "娄底项目---风机技术协议（终版）.doc",
+    "extension": ".doc",
+    "size_bytes": 1276416,
+    "sha256": "739b926bc78c68b1a402e2783437ba1e98b0ad5cf99a760c2a9afeef98977603",
+    "project_guess": "娄底项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "山东临风科技股份有限公司",
+      "娄底康恒环保有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1176,
+    "text_chars": 52456,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0131",
+    "corpus": "agreement",
+    "original_file": "宁平项目-风机采购技术协议-初稿.pdf",
+    "extension": ".pdf",
+    "size_bytes": 2384503,
+    "sha256": "fd89a961f1cce95db71545b87954ef0d512a5c2f9c99a4fa4a4915b95e8b63ba",
+    "project_guess": "宁平项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国联合工程有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 70,
+    "text_chars": 32604,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0132",
+    "corpus": "agreement",
+    "original_file": "宁波项目风机技术协议--宁波风机有限公司SUS15S-801-018  .doc",
+    "extension": ".doc",
+    "size_bytes": 516096,
+    "sha256": "0728ae24a382730ae1e908acefb2193b68349dc5fc3dc07fb80563625fa3e2d7",
+    "project_guess": "宁波项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "宁波明州环境能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 871,
+    "text_chars": 29424,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0133",
+    "corpus": "agreement",
+    "original_file": "宜昌项目风机设备采购技术协议.doc",
+    "extension": ".doc",
+    "size_bytes": 893952,
+    "sha256": "5bf61e23f2fd8095a963247d343dda1a123968e7f93991f2e97d63e67f6b1432",
+    "project_guess": "宜昌项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "宁风科技（宁波）有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 724,
+    "text_chars": 32042,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0134",
+    "corpus": "agreement",
+    "original_file": "宝鸡项目风机采购技术协议20221010-终版.doc",
+    "extension": ".doc",
+    "size_bytes": 1062912,
+    "sha256": "f88ffe6d9b6d2aac1c726f87045fe8c6435de7018cb86d5df04a3b5f7f89b6ce",
+    "project_guess": "宝鸡项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国航空规划设计研究总院有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 718,
+    "text_chars": 31120,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0135",
+    "corpus": "agreement",
+    "original_file": "宣威风机技术协议终版0908--签订版.doc",
+    "extension": ".doc",
+    "size_bytes": 693248,
+    "sha256": "32a75f57fb18cd5d5b78d9b92966ce9f1306e02083e3f2386e27805f756dd3c8",
+    "project_guess": "宣威风机0908 签订版",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宣威市鸿志新能源有限公司",
+      "论证报告由云南省水文水资源局曲靖分局和云南文源科技服务有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 855,
+    "text_chars": 35191,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0136",
+    "corpus": "agreement",
+    "original_file": "广南项目风机采购技术协议-双方签字版2024.5.23.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1383354,
+    "sha256": "8b32243c855435b2b07ca192564c552feac5816858a6afd0e8a25562f5f4f207",
+    "project_guess": "广南项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "广州华科工程技术有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 46,
+    "text_chars": 24948,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0137",
+    "corpus": "agreement",
+    "original_file": "广水风机技术协议（终板20180515).doc",
+    "extension": ".doc",
+    "size_bytes": 433152,
+    "sha256": "605abc3ff1f2f36c6cd35fc5a8299f05e279029c91f9b67a2fad6c62d26bb009",
+    "project_guess": "广水风机（终板20180515)",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "湖北双剑鼓风机股份有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 816,
+    "text_chars": 25988,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0138",
+    "corpus": "agreement",
+    "original_file": "广饶项目-风机采购技术协议-20200609-单福朋.pdf",
+    "extension": ".pdf",
+    "size_bytes": 16009391,
+    "sha256": "fbf97a3bc92bf3737f8543d81b3569d04de2353b58663f5e271b56881febbca8",
+    "project_guess": "广饶项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0139",
+    "corpus": "agreement",
+    "original_file": "引风机节能改造技术协议.docx",
+    "extension": ".docx",
+    "size_bytes": 47062,
+    "sha256": "f968450e6f90afd395857d5393c0830bfea5c8e74b148c9ffd9013bdf300c0ff",
+    "project_guess": "引风机节能改造",
+    "fan_types": [
+      "引风机",
+      "离心风机"
+    ],
+    "suppliers": [
+      "德清旺能环保能源有限公司",
+      "浙江耀佳环保科技有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 173,
+    "text_chars": 7682,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0140",
+    "corpus": "agreement",
+    "original_file": "怀化项目-风机技术协议-20220608-常振宇.pdf",
+    "extension": ".pdf",
+    "size_bytes": 12037380,
+    "sha256": "7026df300c90c406d7187126bed773557822b1e4eabfbe9b6ce5429c6d2470d7",
+    "project_guess": "怀化项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0141",
+    "corpus": "agreement",
+    "original_file": "怀柔风机技术协议170104.doc",
+    "extension": ".doc",
+    "size_bytes": 304640,
+    "sha256": "76a44bb01f1cc8af50bf344bb0d6b92f10eb0be06063ad2fc8379174274a59d3",
+    "project_guess": "怀柔风机170104",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [],
+    "extraction_status": "ok",
+    "extract_records": 612,
+    "text_chars": 18097,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0142",
+    "corpus": "agreement",
+    "original_file": "恩菲工程绵阳项目引风机技术协议-12-24 最终签字版.doc",
+    "extension": ".doc",
+    "size_bytes": 178176,
+    "sha256": "04e7576b0ad5485df3cec2fc74bfc3c74c8b725e0c617c5e43ca14d17b84b418",
+    "project_guess": "恩菲工程绵阳项目",
+    "fan_types": [
+      "引风机",
+      "离心风机"
+    ],
+    "suppliers": [
+      "中国恩菲工程技术有限公司",
+      "豪顿华工程有限公司",
+      "豪顿华"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 283,
+    "text_chars": 14607,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0143",
+    "corpus": "agreement",
+    "original_file": "房县项目风机设备技术协议终版20220328.doc",
+    "extension": ".doc",
+    "size_bytes": 2226176,
+    "sha256": "44f32227739c292ef58e9e3109b76b7896266454143e75c5100303c7fdb49353",
+    "project_guess": "房县项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "山东省章丘鼓风机股份有限公司",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 753,
+    "text_chars": 33724,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0144",
+    "corpus": "agreement",
+    "original_file": "拉萨二期-风机采购技术协议-20221129-终版.doc",
+    "extension": ".doc",
+    "size_bytes": 1282048,
+    "sha256": "784324d45d9e97b998013fa9036ee017f0a31e4aff8e5bd644640af1567d9dd6",
+    "project_guess": "拉萨二期 风机 20221129",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 855,
+    "text_chars": 41166,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0145",
+    "corpus": "agreement",
+    "original_file": "新会项目烟气再循环风机改造采购技术协议.doc",
+    "extension": ".doc",
+    "size_bytes": 214273,
+    "sha256": "50a65fb1586164c4affe191e163867a73b27c480b6f721b392eb6385dba655be",
+    "project_guess": "新会项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 386,
+    "text_chars": 15115,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0146",
+    "corpus": "agreement",
+    "original_file": "新会项目风机采购技术协议-20221207.pdf",
+    "extension": ".pdf",
+    "size_bytes": 3699996,
+    "sha256": "f96e7511f7f73cd49570083f7b2917aae85e99fdf28809326bac68ec3d67f3c8",
+    "project_guess": "新会项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 70,
+    "text_chars": 29105,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0147",
+    "corpus": "agreement",
+    "original_file": "曲靖项目风机采购技术协议-20230201.doc",
+    "extension": ".doc",
+    "size_bytes": 846336,
+    "sha256": "7de4d1c280a98318822027d59b50dcaca9fe8a8be1b1023b734f8cfe46f64c01",
+    "project_guess": "曲靖项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 729,
+    "text_chars": 30448,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0148",
+    "corpus": "agreement",
+    "original_file": "朝阳项目风机采购技术协议20220526-zp.doc",
+    "extension": ".doc",
+    "size_bytes": 1268736,
+    "sha256": "5e461e53a76f9c899b54b3f92307f3c13a9bac892f45f21e4f1ad19b8ed57f25",
+    "project_guess": "朝阳项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁风科技（宁波）有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 853,
+    "text_chars": 41515,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0149",
+    "corpus": "agreement",
+    "original_file": "杭州临江环境能源工程项目风机设备及服务采购技术协议-终版.doc",
+    "extension": ".doc",
+    "size_bytes": 566272,
+    "sha256": "860c264cf8095b5f1d0efb47cb7948bf3cc88db97f334337194ed9cdecc81a17",
+    "project_guess": "杭州临江环境能源工程项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "豪顿华工程有限公司",
+      "豪顿华"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 952,
+    "text_chars": 30257,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0150",
+    "corpus": "agreement",
+    "original_file": "杭州临江项目风机技术协议（再循环风机）2018.12.28-终版.doc",
+    "extension": ".doc",
+    "size_bytes": 245760,
+    "sha256": "0e218af31a5f08c699dfdd6f333d82dfb5a6b98a37d845631f3919ae97e113c6",
+    "project_guess": "杭州临江项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "浙江上风高科专风实业有限公司",
+      "上风高科",
+      "浙江上风"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 548,
+    "text_chars": 17288,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0151",
+    "corpus": "agreement",
+    "original_file": "枣阳项目-风机采购技术协议-20200908-梅冬钱.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1701443,
+    "sha256": "2522433e511ea9a45dc673b6a7f94475d1bf6dd3e524db0edcc5f3ac2d6d3047",
+    "project_guess": "枣阳项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 66,
+    "text_chars": 39214,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0152",
+    "corpus": "agreement",
+    "original_file": "桐庐项目风机采购技术协议.pdf",
+    "extension": ".pdf",
+    "size_bytes": 22115822,
+    "sha256": "6f64be2745e0232ead6180a14be54af40a4fbb179ee6da1fd5e7d032930e661f",
+    "project_guess": "桐庐项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0153",
+    "corpus": "agreement",
+    "original_file": "梧州项目风机技术协议--20180608（终板）.doc",
+    "extension": ".doc",
+    "size_bytes": 526336,
+    "sha256": "dafe93740c2b5cf1a5fc68ee4e278b75fdd91ced0fdd3b740c311dd796a514d6",
+    "project_guess": "梧州项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 896,
+    "text_chars": 29768,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0154",
+    "corpus": "agreement",
+    "original_file": "榆树风机技术协议书160712.docx",
+    "extension": ".docx",
+    "size_bytes": 127497,
+    "sha256": "c081bdf2fd421db061dcc09f8a5364e4cf673a3da613030601d2f5731712f679",
+    "project_guess": "榆树风机书160712",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "南通大通宝富风机有限公司",
+      "中国恩菲工程技术有限公司",
+      "南通大通宝富"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 904,
+    "text_chars": 30553,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0155",
+    "corpus": "agreement",
+    "original_file": "正定项目-风机技术协议-20220113-新乡西玛.pdf",
+    "extension": ".pdf",
+    "size_bytes": 16788014,
+    "sha256": "20421b992ff9da3a420583101f03e66704bfb8a47d0a6b923ddf3ed1afb844cd",
+    "project_guess": "正定项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0156",
+    "corpus": "agreement",
+    "original_file": "正定项目烟气再循环风机技术协议-20230103.doc",
+    "extension": ".doc",
+    "size_bytes": 489984,
+    "sha256": "6858fd140391c15790e3bb10de847bd780eee68a53f12fca55dfd9d622c41d00",
+    "project_guess": "正定项目",
+    "fan_types": [
+      "烟气再循环风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 613,
+    "text_chars": 24606,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0157",
+    "corpus": "agreement",
+    "original_file": "武冈项目-风机技术协议20221227(签字版).pdf",
+    "extension": ".pdf",
+    "size_bytes": 11124697,
+    "sha256": "b9d9e2077974698d7ed3d54a6293aac7df526c2fe25123fe00554568e28aab85",
+    "project_guess": "武冈项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 61,
+    "text_chars": 30238,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0158",
+    "corpus": "agreement",
+    "original_file": "武安项目风机采购技术协议20240311.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1610937,
+    "sha256": "870a4f6485c4f2badf28451455c8ef742a199b85b77181b90f0eca39839ab12c",
+    "project_guess": "武安项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国城市建设研究院有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 45,
+    "text_chars": 27299,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0159",
+    "corpus": "agreement",
+    "original_file": "武汉千子山项目-风机采购技术协议-20210427.pdf",
+    "extension": ".pdf",
+    "size_bytes": 2138956,
+    "sha256": "9cff65afa6e5789ec91007715104e5656410e3c5f04f1cdf2af0b227f79041c4",
+    "project_guess": "武汉千子山项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "山东省章丘鼓风机股份有限公司",
+      "中冶南方都市环保工程技术股份有限公司",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 52,
+    "text_chars": 31356,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0160",
+    "corpus": "agreement",
+    "original_file": "汉川项目-风机采购技术协议-20230403-双方签字版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 3101731,
+    "sha256": "f24c36e6ddd4c635be60f2bf06b763d00533ccd8df72f20ffeece1b9dbc64307",
+    "project_guess": "汉川项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "鞍山钢峰风机有限责任公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 60,
+    "text_chars": 27828,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0161",
+    "corpus": "agreement",
+    "original_file": "汾阳垃圾焚烧发电项目锅炉风机技术协议333 (2).doc",
+    "extension": ".doc",
+    "size_bytes": 230400,
+    "sha256": "f9816ba523db0fb44ce43075ba89823981a1020f3a832b296e400106a948b884",
+    "project_guess": "汾阳垃圾焚烧发电项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "汾阳中科渊昌再生能源有限公司",
+      "四川望江风机制造有限公司",
+      "中国轻工业广州设计工程有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 313,
+    "text_chars": 14010,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0162",
+    "corpus": "agreement",
+    "original_file": "沈阳西部风机技术协议17113-签-添加炉墙冷却消音器.doc",
+    "extension": ".doc",
+    "size_bytes": 457728,
+    "sha256": "5081822af595c4c8835ba35ff7e398da95b857c0c7693132e1259cbeb7b4138b",
+    "project_guess": "沈阳西部风机17113 签 添加炉墙冷却消音器",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "北方重工集团有限公司",
+      "鞍山钢峰风机有限责任公司",
+      "卧龙电气南阳防爆集团股份有限公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 835,
+    "text_chars": 26404,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0163",
+    "corpus": "agreement",
+    "original_file": "泰国暖武里项目风机采购技术协议（请厂家签字反馈）.pdf",
+    "extension": ".pdf",
+    "size_bytes": 13901083,
+    "sha256": "7d58a4d78e9ba1792e1ecf9943536a5dd90abb333d7636645ea27a2f48a35080",
+    "project_guess": "泰国暖武里项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0164",
+    "corpus": "agreement",
+    "original_file": "泸州项目-风机技术协议-20231220终版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 21583220,
+    "sha256": "1c0fdb00cdb7878d146b3ad3b622aa8cd3d1d9f5a26291db12ca2b961dda7d08",
+    "project_guess": "泸州项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0165",
+    "corpus": "agreement",
+    "original_file": "深圳市宝安区老虎坑生活垃圾焚烧发电工程一、二次风机设备采购技术协议20170609最终.doc",
+    "extension": ".doc",
+    "size_bytes": 841728,
+    "sha256": "55750b61015d3c8aee548ba5b109ce23235aa68877d01e976cf8e054007cac00",
+    "project_guess": "深圳市宝安区老虎坑生活垃圾焚烧发电工程一、二次风机设备20170609最终",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "离心风机"
+    ],
+    "suppliers": [
+      "深圳市能源环保有限公司",
+      "南通大通宝富风机有限公司",
+      "温度元件选用上海自动化仪表有限公司",
+      "重庆川仪自动化股份有限公司",
+      "湘潭电机股份有限公司",
+      "南通大通宝富"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 536,
+    "text_chars": 27101,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0166",
+    "corpus": "agreement",
+    "original_file": "湖州项目-风机技术协议-20180206-张心成.doc",
+    "extension": ".doc",
+    "size_bytes": 881152,
+    "sha256": "b9d4b8715ae2ff25f3f9e8d1c316ccb87188aac55e206f8fd26e910d9b7158fd",
+    "project_guess": "湖州项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "湖州南太湖环保能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1048,
+    "text_chars": 47929,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0167",
+    "corpus": "agreement",
+    "original_file": "灞桥项目风机技术协议.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1622220,
+    "sha256": "cc5c410f2e43b87dfff93e279ea68771bdf5266a254c549be26e669195616e2d",
+    "project_guess": "灞桥项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0168",
+    "corpus": "agreement",
+    "original_file": "珠海二期项目-风机技术协议 -20190103-单福朋.pdf",
+    "extension": ".pdf",
+    "size_bytes": 553266,
+    "sha256": "06333399c8235b16ef83a8ac574999f50564d92721234798bb808260fade8959",
+    "project_guess": "珠海二期项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "珠海康恒环保有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 57,
+    "text_chars": 31561,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0169",
+    "corpus": "agreement",
+    "original_file": "珠海市环保生物质热电工程风机技术协议(最终版本）SUS15S-109-007 20141225.doc",
+    "extension": ".doc",
+    "size_bytes": 588288,
+    "sha256": "2a0dd286d3f6e9f4f336dea10e9c883202154c830df0cc62bacd453b0d262d37",
+    "project_guess": "珠海市环保生物质热电工程风机(最本）SUS15S 109 007 20141225",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "送风机"
+    ],
+    "suppliers": [
+      "中国轻工业广州工程有限公司",
+      "宁波风机有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 742,
+    "text_chars": 31915,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0170",
+    "corpus": "agreement",
+    "original_file": "珠海项目-SUS15S-109-007-风机系统技术协议-宁波风机.pdf",
+    "extension": ".pdf",
+    "size_bytes": 9071844,
+    "sha256": "608d805c13a853401d4cfadf6cc1d6cc4445a41c2e2a0c3d5f377b5fbef98ab2",
+    "project_guess": "珠海项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0171",
+    "corpus": "agreement",
+    "original_file": "莱州项目风机技术协议-20201110-张坡.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1622520,
+    "sha256": "dbfecc85496408969a8db686007d7cf5f4d6ecfdba986a478c7b6a5a38b06721",
+    "project_guess": "莱州项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "鞍山钢峰风机有限责任公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 61,
+    "text_chars": 36434,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0172",
+    "corpus": "agreement",
+    "original_file": "融安项目风机采购技术协议（双方确认）.doc",
+    "extension": ".doc",
+    "size_bytes": 1092608,
+    "sha256": "1b3e5ff7ac8a53e28c580bf0747dd49aebac523dea6aca92de27d56d50576be9",
+    "project_guess": "融安项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 767,
+    "text_chars": 33884,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0173",
+    "corpus": "agreement",
+    "original_file": "衡阳项目风机技术协议20230206-小签.pdf",
+    "extension": ".pdf",
+    "size_bytes": 3238991,
+    "sha256": "8da3c19cf7b9b6f0650dfeedfb8039d3f538b5043ed0a9b10d6a8f115927feca",
+    "project_guess": "衡阳项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 60,
+    "text_chars": 29570,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0174",
+    "corpus": "agreement",
+    "original_file": "西丰生物质送风机、引风机技术协议-清洁版.doc",
+    "extension": ".doc",
+    "size_bytes": 376320,
+    "sha256": "df78881ac54197f323e2680b8b2d4542c4ebbe83bf618e08b40e402fd6f9581d",
+    "project_guess": "西丰生物质送风机、引风机",
+    "fan_types": [
+      "引风机",
+      "送风机"
+    ],
+    "suppliers": [
+      "北方工程设计研究院有限公司",
+      "鞍山钢峰风机有限责任公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 470,
+    "text_chars": 18508,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0175",
+    "corpus": "agreement",
+    "original_file": "西丰送风机、引风机技术协议-清洁版.doc",
+    "extension": ".doc",
+    "size_bytes": 376320,
+    "sha256": "df78881ac54197f323e2680b8b2d4542c4ebbe83bf618e08b40e402fd6f9581d",
+    "project_guess": "西丰送风机、引风机",
+    "fan_types": [
+      "引风机",
+      "送风机"
+    ],
+    "suppliers": [
+      "北方工程设计研究院有限公司",
+      "鞍山钢峰风机有限责任公司"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 470,
+    "text_chars": 18508,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0176",
+    "corpus": "agreement",
+    "original_file": "西安灞桥项目风机技术协议（已审）20201028.doc",
+    "extension": ".doc",
+    "size_bytes": 1454080,
+    "sha256": "30e27e6b26273bffe2d7fec12b87e7fa732cadc75711678e9c2b01dd0b0f6f36",
+    "project_guess": "西安灞桥项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "中国航空规划设计研究总院有限公司",
+      "西安陕鼓动力股份有限公司",
+      "陕西鼓风机（集团）有限公司",
+      "陕鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1347,
+    "text_chars": 69533,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0177",
+    "corpus": "agreement",
+    "original_file": "诸暨项目-一次、二次风机设备技术协议-20220621-厂家西玛.doc",
+    "extension": ".doc",
+    "size_bytes": 771584,
+    "sha256": "afb2938e05da2334b57f52ed84cb0803e2ddb88a3fa0f8103b89ddebb1e1f0bd",
+    "project_guess": "诸暨项目",
+    "fan_types": [
+      "一次风机",
+      "二次风机"
+    ],
+    "suppliers": [
+      "浙江诸暨八方热电有限责任公司",
+      "新乡西玛鼓风机股份有限公司",
+      "哈电集团",
+      "苏州高中压阀门有限公司",
+      "华夏阀门有限公司",
+      "大高石化科技股份有限公司",
+      "浙江三胜仪表有限公司",
+      "上海电站阀门厂有限公司",
+      "重庆川仪自动化股份有限公司",
+      "安徽天康（集团）有限公司",
+      "余姚纪源仪表有限公司",
+      "天工阀门集团",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 939,
+    "text_chars": 36944,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0178",
+    "corpus": "agreement",
+    "original_file": "赣榆项目风机采购技术协议（双方确认）20200820.docx",
+    "extension": ".docx",
+    "size_bytes": 6132509,
+    "sha256": "f9ba2de387c2c222d187d43d05816097662ed31099cdccb41c1e7ee1c5c7f207",
+    "project_guess": "赣榆项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "山东省章丘鼓风机股份有限公司",
+      "山东章鼓",
+      "章鼓"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1223,
+    "text_chars": 55778,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0179",
+    "corpus": "agreement",
+    "original_file": "越南宁平项目-风机采购技术协议-终版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 3322841,
+    "sha256": "4c4af589752e91bb3ad442da990f34138c2e5033ce6d81f4a979963ea15dfb5c",
+    "project_guess": "越南宁平项目",
+    "fan_types": [
+      "落差墙冷却风机",
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "中国联合工程有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 72,
+    "text_chars": 33105,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0180",
+    "corpus": "agreement",
+    "original_file": "越南胡志明项目风机技术协议（双方签字版）-20240518.pdf",
+    "extension": ".pdf",
+    "size_bytes": 15021276,
+    "sha256": "1d8b21f39d4556edc06f906dcc2d7cf202dcdd7f1800b677b1f66c57a59912ee",
+    "project_guess": "越南胡志明项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0181",
+    "corpus": "agreement",
+    "original_file": "金坛项目-风机技术协议（终版）-小签版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1693313,
+    "sha256": "f0d57b2cdf1b6b5e4abf5618fb8ad36de959b64adb14061b9aef88da836ccbfb",
+    "project_guess": "金坛项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0182",
+    "corpus": "agreement",
+    "original_file": "闽侯项目风机技术协议20190327-小签版.doc",
+    "extension": ".doc",
+    "size_bytes": 983552,
+    "sha256": "2560b525a173f73fce0bd7a2254c107113566d8f6c5da329eaba381a07c1daa7",
+    "project_guess": "闽侯项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛",
+      "西玛风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1018,
+    "text_chars": 32941,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0183",
+    "corpus": "agreement",
+    "original_file": "阳江项目风机技术协议-终版20211208.pdf",
+    "extension": ".pdf",
+    "size_bytes": 16388660,
+    "sha256": "d7c90caa333bfc0eac70ac8c42706cec9b0ece7c7cb78e087365e78a0a616edf",
+    "project_guess": "阳江项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0184",
+    "corpus": "agreement",
+    "original_file": "陆良项目风机采购技术协议（请签字反馈）.pdf",
+    "extension": ".pdf",
+    "size_bytes": 13811367,
+    "sha256": "aefd7a15c117f40651a955a2c83cf75c3c2bf65f2c0af1dd59adeaf6cf89391c",
+    "project_guess": "陆良项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0185",
+    "corpus": "agreement",
+    "original_file": "青岛项目-风机技术协议-20180326-郭孝武.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1719036,
+    "sha256": "2ee4fc9c8bef00719a5180de37167e84d6adcda8f0163c4afab5d0f1f55cf7fa",
+    "project_guess": "青岛项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "青岛康恒再生能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 36,
+    "text_chars": 28691,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0186",
+    "corpus": "agreement",
+    "original_file": "顺平项目风机技术协议-20210202-签字.pdf",
+    "extension": ".pdf",
+    "size_bytes": 18149294,
+    "sha256": "29f91bf30ed4dcf7f485cc37ad7ec72ce78b7a860b22d6ae8aef2eea1e141081",
+    "project_guess": "顺平项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0187",
+    "corpus": "agreement",
+    "original_file": "香河项目风机采购技术协议20200702.pdf",
+    "extension": ".pdf",
+    "size_bytes": 952569,
+    "sha256": "a19555734602adea660234bf0bd4714bd5cefed8e05fe83ae5c21b24c73fd8e6",
+    "project_guess": "香河项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "浙江上风高科专风实业股份有限公司",
+      "中国五洲工程设计集团有限公司",
+      "上风高科",
+      "浙江上风"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 51,
+    "text_chars": 36783,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0188",
+    "corpus": "agreement",
+    "original_file": "高陵项目风机技术协议终版.doc",
+    "extension": ".doc",
+    "size_bytes": 867840,
+    "sha256": "a21a87ff6f62d419ecca1baa04eabf9e5ade07f461feb176442b25515f9d45e9",
+    "project_guess": "高陵项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "密封风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1374,
+    "text_chars": 46248,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0189",
+    "corpus": "agreement",
+    "original_file": "鹤山项目-风机采购技术协议签字版-更改甲方.pdf",
+    "extension": ".pdf",
+    "size_bytes": 2289046,
+    "sha256": "2eea7a89b42f8333e3fae16001cbc09c73eb23b22a8dc7ecc066343e4e36bf2a",
+    "project_guess": "鹤山项目",
+    "fan_types": [
+      "风机（未细分）"
+    ],
+    "suppliers": [],
+    "extraction_status": "no-text-layer",
+    "extract_records": 0,
+    "text_chars": 0,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0190",
+    "corpus": "agreement",
+    "original_file": "黄冈项目-风机-技术协议-终版.pdf",
+    "extension": ".pdf",
+    "size_bytes": 4480785,
+    "sha256": "1373d9c900ac6c7473b5ca8330c386af70579353c9cdd9ae3efc74570761aab2",
+    "project_guess": "黄冈项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "河北旺轩通风设备制造有限公司"
+    ],
+    "extraction_status": "partial-text:52/53",
+    "extract_records": 52,
+    "text_chars": 28729,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0191",
+    "corpus": "agreement",
+    "original_file": "黄岛项目风机技术协议20180326.doc",
+    "extension": ".doc",
+    "size_bytes": 704512,
+    "sha256": "3f088bfc4995137c5b58732d9ecb3eaefe164283eb3232670d1021eceb09e4bd",
+    "project_guess": "黄岛项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "一次风机",
+      "二次风机",
+      "引风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "宁波风机有限公司",
+      "青岛西海岸康恒环保能源有限公司",
+      "宁波风机"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 1095,
+    "text_chars": 37024,
+    "notes": "旧版DOC由WPS转换为只读DOCX副本后提取",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0192",
+    "corpus": "agreement",
+    "original_file": "黄岩项目-风机技术协议-20190329-贾敏华.pdf",
+    "extension": ".pdf",
+    "size_bytes": 2133825,
+    "sha256": "65259b6261ff4057c00ed5c4b7d3b70b48575125dc73a6ebf90596ec640e006c",
+    "project_guess": "黄岩项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "浙江上风高科专风实业有限公司",
+      "台州黄岩康恒再生能源有限公司",
+      "上风高科",
+      "浙江上风"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 52,
+    "text_chars": 28227,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0193",
+    "corpus": "agreement",
+    "original_file": "黄岩项目风机技术协议-清洁20190329.docx",
+    "extension": ".docx",
+    "size_bytes": 889714,
+    "sha256": "5a9cc26d36d55de77d39fdb2387a3744d759a55fcd6f64ef2cea7d91250c18b0",
+    "project_guess": "黄岩项目",
+    "fan_types": [
+      "烟气再循环风机",
+      "一次风机",
+      "二次风机",
+      "引风机"
+    ],
+    "suppliers": [
+      "浙江上风高科专风实业有限公司",
+      "台州黄岩康恒再生能源有限公司",
+      "上风高科",
+      "浙江上风"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 873,
+    "text_chars": 32685,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  },
+  {
+    "source_id": "FAN0194",
+    "corpus": "agreement",
+    "original_file": "黄骅项目炉墙冷却风机采购技术协议(定稿)20200911.pdf",
+    "extension": ".pdf",
+    "size_bytes": 628019,
+    "sha256": "e4c1b5571164e56bdc5bbd209bd7daa908ace241c351cd158cccee0251eb16c4",
+    "project_guess": "黄骅项目",
+    "fan_types": [
+      "炉墙冷却风机",
+      "引风机",
+      "送风机",
+      "冷却风机"
+    ],
+    "suppliers": [
+      "中节能（黄骅）环保能源有限公司",
+      "新乡西玛鼓风机股份有限公司",
+      "新乡西玛"
+    ],
+    "extraction_status": "ok",
+    "extract_records": 28,
+    "text_chars": 19880,
+    "notes": "",
+    "source_batch": "风机技术协议历史资料批次",
+    "normalized_history_records": 0
+  }
+]
